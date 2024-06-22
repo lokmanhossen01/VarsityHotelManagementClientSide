@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+/* Font style */
+body,
+p,
+div,
+span {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2,
+h3,
+button,
+a {
+  font-family: 'Nunito', sans-serif;
+}
+.react-tabs__tab--selected {
+  background-color: #ffffff;
+  color: #1e293b;
+}
+
+/* Custom Scroll add  */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Banner arrow edit */
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  color: #fa983a;
+}
+@media screen and (max-width: 640px) {
+  .swiper-button-prev::after,
+  .swiper-button-next::after {
+    transform: scale(0.6);
+  }
+}
+.collapse-title::after {
+  color: #fa983a;
+}
+
+/* Dropdwon styles  */
+.css-1nmdiq5-menu {
+  background-color: red;
+  color: #1e293b;
+}
+
+.navigation > a.active {
+  border: 1.5px solid rgb(5, 189, 103);
+}
+.dashboardNav > li > a.active {
+  background-color: #424c5c;
+  border-radius: 6px;
+}

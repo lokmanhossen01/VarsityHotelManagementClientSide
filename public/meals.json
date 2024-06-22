@@ -1,0 +1,246 @@
+[
+  {
+    "mealImage": null,
+    "adminName": "Lucy Davis",
+    "description": "A mouth-watering cheesy lasagna featuring layers of perfectly cooked pasta, rich meat sauce, and creamy béchamel sauce, topped with a blend of mozzarella and parmesan cheese.",
+    "ingredients": [
+      "Pasta",
+      "Ground Beef",
+      "Tomato Sauce",
+      "Béchamel Sauce",
+      "Mozzarella",
+      "Parmesan"
+    ],
+    "postDate": "2024-05-06 12:00:00",
+    "rating": 0,
+    "likes": 321,
+    "mealType": "dinner",
+    "title": "Cheesy Lasagna with Meat Sauce",
+    "price": 15.99,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Tom Edwards",
+    "description": "Savor the taste of grilled chicken breast paired with nutritious quinoa and a mix of steamed vegetables, all seasoned with olive oil and a hint of lemon.",
+    "ingredients": [
+      "Chicken Breast",
+      "Quinoa",
+      "Broccoli",
+      "Carrots",
+      "Olive Oil",
+      "Lemon"
+    ],
+    "postDate": "2024-05-07 18:30:00",
+    "rating": 0,
+    "likes": 210,
+    "mealType": "dinner",
+    "title": "Grilled Chicken with Quinoa",
+    "price": 12.5,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Eva Martinez",
+    "description": "Experience authentic Mexican cuisine with these flavorful beef tacos, garnished with fresh cilantro, lime, and salsa, all wrapped in soft tortillas.",
+    "ingredients": ["Tortillas", "Beef", "Onion", "Cilantro", "Lime", "Salsa"],
+    "postDate": "2024-05-08 13:15:00",
+    "rating": 0,
+    "likes": 275,
+    "mealType": "lunch",
+    "title": "Authentic Mexican Beef Tacos",
+    "price": 10,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Ken Watanabe",
+    "description": "Indulge in a bowl of rich and flavorful ramen, featuring tender pork belly, a soft-boiled egg, and fresh scallions, served in a savory broth and topped with nori.",
+    "ingredients": [
+      "Ramen Noodles",
+      "Pork Belly",
+      "Egg",
+      "Scallions",
+      "Broth",
+      "Nori"
+    ],
+    "postDate": "2024-05-09 08:00:00",
+    "rating": 0,
+    "likes": 350,
+    "mealType": "dinner",
+    "title": "Flavorful Ramen with Pork Belly",
+    "price": 14.99,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Carlos Lopez",
+    "description": "Enjoy a hearty burrito stuffed with seasoned rice, beans, melted cheese, and grilled chicken, all wrapped in a soft tortilla and served with sour cream.",
+    "ingredients": [
+      "Tortilla",
+      "Rice",
+      "Beans",
+      "Cheese",
+      "Chicken",
+      "Sour Cream"
+    ],
+    "postDate": "2024-05-10 12:45:00",
+    "rating": 0,
+    "likes": 240,
+    "mealType": "lunch",
+    "title": "Hearty Chicken and Bean Burrito",
+    "price": 9.75,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Anna Lee",
+    "description": "Start your day with these fluffy pancakes, served with a generous drizzle of maple syrup and a side of fresh berries for a perfect breakfast treat.",
+    "ingredients": [
+      "Flour",
+      "Eggs",
+      "Milk",
+      "Baking Powder",
+      "Maple Syrup",
+      "Berries"
+    ],
+    "postDate": "2024-05-04 08:00:00",
+    "rating": 0,
+    "likes": 250,
+    "mealType": "breakfast",
+    "title": "Fluffy Pancakes with Maple Syrup",
+    "price": 8.5,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "John Doe",
+    "description": "A classic Italian pasta dish featuring spaghetti topped with a rich and savory meat sauce, made with ground beef, tomato sauce, onions, and garlic.",
+    "ingredients": [
+      "Spaghetti",
+      "Ground Beef",
+      "Tomato Sauce",
+      "Onion",
+      "Garlic",
+      "Parmesan Cheese"
+    ],
+    "postDate": "2024-05-01 12:00:00",
+    "rating": 0,
+    "likes": 122,
+    "mealType": "dinner",
+    "title": "Classic Spaghetti Bolognese",
+    "price": 11.99,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Jane Smith",
+    "description": "A healthy veggie burger made with a wholesome veggie patty, served on a whole wheat bun with fresh lettuce, tomato, avocado, and a side of sweet potato fries.",
+    "ingredients": [
+      "Veggie Patty",
+      "Whole Wheat Bun",
+      "Lettuce",
+      "Tomato",
+      "Avocado",
+      "Sweet Potato Fries"
+    ],
+    "postDate": "2024-05-02 18:30:00",
+    "rating": 0,
+    "likes": 200,
+    "mealType": "lunch",
+    "title": "Healthy Veggie Burger with Fries",
+    "price": 9,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Mike Johnson",
+    "description": "A spicy and flavorful chicken curry made with tender chicken, coconut milk, and curry paste, served with steamed rice for a satisfying meal.",
+    "ingredients": [
+      "Chicken",
+      "Coconut Milk",
+      "Curry Paste",
+      "Onion",
+      "Garlic",
+      "Rice"
+    ],
+    "postDate": "2024-05-03 13:15:00",
+    "rating": 0,
+    "likes": 181,
+    "mealType": "dinner",
+    "title": "Spicy Chicken Curry with Rice",
+    "price": 13.5,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Chris Brown",
+    "description": "A crisp Caesar salad featuring romaine lettuce, homemade Caesar dressing, parmesan cheese, and croutons, topped with grilled chicken for added protein.",
+    "ingredients": [
+      "Romaine Lettuce",
+      "Caesar Dressing",
+      "Parmesan Cheese",
+      "Croutons",
+      "Chicken"
+    ],
+    "postDate": "2024-05-05 12:45:00",
+    "rating": 0,
+    "likes": 301,
+    "mealType": "lunch",
+    "title": "Crisp Caesar Salad with Chicken",
+    "price": 10.5,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "Nancy Green",
+    "description": "Start your morning with healthy oatmeal, topped with fresh fruits like banana and blueberries, and a sprinkle of almonds, all drizzled with a touch of honey.",
+    "ingredients": [
+      "Oats",
+      "Milk",
+      "Banana",
+      "Blueberries",
+      "Almonds",
+      "Honey"
+    ],
+    "postDate": "2024-05-11 07:30:00",
+    "rating": 0,
+    "likes": 202,
+    "mealType": "breakfast",
+    "title": "Healthy Oatmeal with Fruits",
+    "price": 7.5,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  },
+  {
+    "mealImage": null,
+    "adminName": "David Clark",
+    "description": "Enjoy creamy avocado spread on whole grain toast, topped with a perfectly poached egg, seasoned with salt, pepper, and a hint of lemon for a delightful breakfast.",
+    "ingredients": [
+      "Avocado",
+      "Whole Grain Bread",
+      "Egg",
+      "Salt",
+      "Pepper",
+      "Lemon"
+    ],
+    "postDate": "2024-05-12 08:00:00",
+    "rating": 0,
+    "likes": 206,
+    "mealType": "breakfast",
+    "title": "Avocado Toast with Poached Egg",
+    "price": 9.25,
+    "review": 0,
+    "adminEmail": "ataullahm100@gmail.com"
+  }
+]
